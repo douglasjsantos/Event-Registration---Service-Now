@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>522f9d4683691210d5a9c265eeaad3a3</logo>
+        <menu/>
+        <name>Event Registration</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1554445_event_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Control, register and scheduling of corporate events.</short_description>
+        <source>x_1554445_event_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 02:16:36</sys_created_on>
+        <sys_id>062f55c683691210d5a9c265eeaad3b5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 02:16:38</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=062f55c683691210d5a9c265eeaad3b5"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>png-clipart-calendar-computer-icons-calendar-date-mount-olivet-lutheran-church-of-plymouth-time-.png</file_name>
+        <hash>26b65e6d5125169bad0d799e1dbb9b77bdf1dcca3039590f08704e7ceb775a2b</hash>
+        <image_height>348</image_height>
+        <image_width>348</image_width>
+        <size_bytes>1613</size_bytes>
+        <size_compressed>1636</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 02:16:38</sys_created_on>
+        <sys_id>522f9d4683691210d5a9c265eeaad3a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 02:16:38</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>062f55c683691210d5a9c265eeaad3b5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="png-clipart-calendar-computer-icons-calendar-date-mount-olivet-lutheran-church-of-plymouth-time-.png" sys_id="522f9d4683691210d5a9c265eeaad3a3">522f9d4683691210d5a9c265eeaad3a3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 02:16:38</sys_created_on>
+        <sys_id>922f9d4683691210d5a9c265eeaad3a3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2168</length>
+        <position>1</position>
+        <sys_attachment display_value="png-clipart-calendar-computer-icons-calendar-date-mount-olivet-lutheran-church-of-plymouth-time-.png" sys_id="522f9d4683691210d5a9c265eeaad3a3">522f9d4683691210d5a9c265eeaad3a3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 02:16:38</sys_created_on>
+        <sys_id>162f9d4683691210d5a9c265eeaad3a3</sys_id>
+    </sys_attachment_doc>
+</record_update>
